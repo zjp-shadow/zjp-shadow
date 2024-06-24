@@ -3,7 +3,7 @@
 ### Hi there 👋 Here is Jiapeng Zhang
 
 - 🔭 I’m currently working on CSCG group of Tsinghua University.
-- 🌱 I’m currently learning HPC and CG in Tsinghua University.
+- 🌱 I’m currently learning AI and CG in Tsinghua University.
 
 
 <!--
